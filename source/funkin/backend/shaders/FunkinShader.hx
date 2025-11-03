@@ -1,6 +1,7 @@
 package funkin.backend.shaders;
 
 import flixel.graphics.FlxGraphic;
+import mobile.flixel.system.FlxShader;
 import flixel.util.FlxSignal.FlxTypedSignal;
 import haxe.Exception;
 import hscript.IHScriptCustomBehaviour;
