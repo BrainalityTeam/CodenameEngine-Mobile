@@ -1,0 +1,15 @@
+{
+	"customValues": {},
+	"color": "#FFFFFF",
+	"opponentModeAllowed": true,
+	"icon": "face",
+	"difficulties": [
+		"TUNG TUNG"
+	],
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"displayName": "TUNG TUNG SHUCKS",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 100
+}
