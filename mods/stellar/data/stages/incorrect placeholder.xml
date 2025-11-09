@@ -1,0 +1,7 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="/stages/" name="incorrect placeholder">
+	<sprite x="-959.999999099742" sprite="incorrectplaceholder" y="-402.547203792419" type="none" scaley="1.00514779833828" name="incorrectplaceholder"/>
+	<girlfriend scale="inf"/>
+	<dad x="-592.068028022016" y="-297.014626406322" scalex="0.693193450703002" scaley="0.703198066356452" angle="1.20010327059303"/>
+	<boyfriend scalex="0.719583186183761" x="80.0976600307612" scaley="0.745294773016358" y="-268.004350473928"/>
+</stage>

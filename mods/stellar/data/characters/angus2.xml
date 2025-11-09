@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="Angus with G" scale="1.15" camx="-300" icon="angus2">
+	<anim name="idle" anim="idle" x="-280.34" y="-57.4"/>
+	<anim name="singDOWN" anim="down" x="-276" y="-56"/>
+	<anim name="singRIGHT" anim="right" x="-285" y="-57"/>
+	<anim name="singLEFT" anim="left" x="-275" y="-59"/>
+	<anim name="singUP" anim="up" x="-278" y="-59"/>
+</character>
