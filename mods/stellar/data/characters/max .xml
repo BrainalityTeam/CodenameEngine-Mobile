@@ -1,8 +1,0 @@
-<!DOCTYPE codename-engine-character>
-<character x="-59" y="-60" sprite="Anger Maxutko666" scale="1.25" camy="100" color="#000000">
-	<anim name="idle" anim="idle" x="5.2" y="-159.4"/>
-	<anim name="singDOWN" anim="down" x="62.6" y="-140.4"/>
-	<anim name="singRIGHT" anim="right" x="-1.4" y="-166.8"/>
-	<anim name="singLEFT" anim="left" x="20.8" y="-161"/>
-	<anim name="singUP" anim="up" x="6.2" y="-156.8"/>
-</character>

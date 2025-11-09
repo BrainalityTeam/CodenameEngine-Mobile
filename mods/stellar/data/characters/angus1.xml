@@ -1,8 +1,0 @@
-<!DOCTYPE codename-engine-character>
-<character sprite="Angus OLD DADDY" scale="1.025" camx="-300">
-	<anim name="idle" anim="idle" x="-378" y="-46"/>
-	<anim name="singDOWN" anim="down" x="-377.56" y="-42.92"/>
-	<anim name="singRIGHT" anim="right" x="-340.49" y="-52.68"/>
-	<anim name="singLEFT" anim="left" x="-377.56" y="-42.92"/>
-	<anim name="singUP" anim="up" x="-377.56" y="-42.93"/>
-</character>
